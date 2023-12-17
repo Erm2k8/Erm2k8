@@ -1,4 +1,4 @@
-## Sobre Mim:
+## Sobre Mim
 - 🎓 Cursando Infórmatica para internet no IFRN e planejo me graduar em Ciência da computação;
 - 🌐  Autodidata em desenvolvimento e estruturas web;
 - 👩‍💻 Entusiasta de backend e game development;
