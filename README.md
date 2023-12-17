@@ -1,4 +1,4 @@
-# 👨‍💻 Futuro Dev
+# 👨‍💻 Futuro Dev e cientista da computação
 
 
 ##  Tech Stack:
